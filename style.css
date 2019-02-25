@@ -1,3 +1,27 @@
-body { 
-    background-color:blue;
+.body { 
+    background-color:green;
 }
+.navbar{
+    text-transform: uppercase;
+}
+.my-font { 
+    font-family: "PT Sans Narrow" ; 
+}
+
+
+.nav-item{
+    background-color: lightblue;
+}
+
+.nav-link:hover{
+    background-color:blue ; 
+}
+
+header{
+    height: 400px;
+    width:100%;
+    background-image: url("download.png");
+    background-size:cover;
+}
+
+<h1>
