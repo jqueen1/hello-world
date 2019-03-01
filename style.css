@@ -6,6 +6,7 @@
 }
 .my-font { 
     font-family: "PT Sans Narrow" ; 
+    font-weight: bold
 }
 
 
@@ -17,11 +18,22 @@
     background-color:blue ; 
 }
 
+/*this is about the header*/
 header{
     height: 400px;
     width:100%;
     background-image: url("download.png");
     background-size:cover;
+    text-align: center;
+    font-family: 'Srisakdi', cursive;
 }
 
-<h1>
+/*go to hex color for different color shades*/
+
+header p{
+    color:purple;
+    font-style: italic
+}
+header h1{
+    color:lightblue
+}
