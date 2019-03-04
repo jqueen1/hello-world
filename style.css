@@ -1,17 +1,17 @@
-.body { 
-    background-color:green;
-}
+/*body { */
+/*    background-color:green;*/
+/*}*/
 .navbar{
     text-transform: uppercase;
 }
 .my-font { 
-    font-family: "PT Sans Narrow" ; 
+    font-family: "normal" ; 
     font-weight: bold
 }
 
 
 .nav-item{
-    background-color: lightblue;
+    background-color: yellow;
 }
 
 .nav-link:hover{
@@ -20,20 +20,20 @@
 
 /*this is about the header*/
 header{
-    height: 400px;
-    width:100%;
-    background-image: url("download.png");
+    height:300px;
+    width: 100%;
+    background-image: url("jesse.jp2");
     background-size:cover;
-    text-align: center;
-    font-family: 'Srisakdi', cursive;
+    text-align: left;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 
 /*go to hex color for different color shades*/
 
 header p{
-    color:purple;
-    font-style: italic
+    color:yellow;
+    font-style:normal;
 }
 header h1{
-    color:lightblue
+    color:yellow;
 }
