@@ -37,3 +37,31 @@ header p{
 header h1{
     color:yellow;
 }
+
+/*services*/
+
+.services{
+    text-align: center
+}
+
+.services i{
+    font-size: 30px;
+    padding: 25px 20px;
+    
+    /*changed color of font*/
+    
+    background-color: yellow;
+    color: blue;
+    
+    text-align: center;
+    width: 80px;
+    height:80px;
+    
+    border-radius: 50%;
+    
+}
+
+.services span{
+font-weight: bolder;
+
+}
