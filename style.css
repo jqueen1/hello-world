@@ -65,3 +65,18 @@ header h1{
 font-weight: bolder;
 
 }
+
+.team{
+    text-align: center;
+    border-radius:20%;
+    }
+    
+    .contact btn{
+        width:100%;
+    }
+    
+    .contact button:hover{
+        background-color: black;
+    }
+    
+    
