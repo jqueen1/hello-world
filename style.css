@@ -22,7 +22,7 @@
 header{
     height:300px;
     width: 100%;
-    background-image: url("jesse.jp2");
+    background-image: url("fwk.jpg");
     background-size:cover;
     text-align: left;
     font-family: 'ZCOOL QingKe HuangYou', cursive;
@@ -32,13 +32,21 @@ header{
 
 header p{
     color:yellow;
-    font-style:normal;
+    font-style:bold;
 }
 header h1{
     color:yellow;
 }
 
 /*services*/
+
+.services h1{
+    font-style: italic
+}
+
+.services p{
+    font-style: italic
+}
 
 .services{
     text-align: center
@@ -68,9 +76,21 @@ font-weight: bolder;
 
 .team{
     text-align: center;
-    border-radius:20%;
+    border-radius:50%;
     }
     
+    .team img{
+        width:100px;
+    }
+    
+     .team h1{
+    font-style: italic;
+     }
+     
+     .team p{
+         font-style: italic;
+     }
+     
     .contact btn{
         width:100%;
     }
@@ -78,5 +98,4 @@ font-weight: bolder;
     .contact button:hover{
         background-color: black;
     }
-    
     
