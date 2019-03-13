@@ -74,6 +74,49 @@ font-weight: bolder;
 
 }
 
+.pricing h1{
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.pricing h2{
+    font-size-adjust: none
+    font-weight: bold;
+    background-color: yellow;
+    box-sizing: border-box;
+    font-style: italic;
+}
+
+.pricing h3{
+    background-color: blue;
+    box-sizing: border-box;
+}
+
+.columns {
+  float: left;
+  width: 33.3%;
+  padding: 8px;
+}
+
+.price {
+  list-style-type: none;
+  border: 1px solid #eee;
+  margin: 0;
+  padding: 0;
+  -webkit-transition: 0.3s;
+  transition: 0.3s;
+}
+
+.price:hover {
+    background-color: red;
+  box-shadow: 0 8px 12px 0 rgba(0,0,0,0.2)
+}
+
+
+
+
+
 .team{
     text-align: center;
     border-radius:50%;
@@ -98,4 +141,5 @@ font-weight: bolder;
     .contact button:hover{
         background-color: black;
     }
-    
+   
+ 
