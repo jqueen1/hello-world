@@ -119,11 +119,12 @@ font-weight: bolder;
 
 .team{
     text-align: center;
-    border-radius:50%;
     }
     
     .team img{
         width:100px;
+        border-radius: 50%;
+        object-fit: cover;
     }
     
      .team h1{
